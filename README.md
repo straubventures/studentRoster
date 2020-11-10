@@ -1,7 +1,7 @@
 # studentRoster
 A C++ project that demonstrates the use of a Student class that is added to a Roster class.
 
-In the main.cpp file, the main function prints a demo of program. The text should be:
+In the main.cpp file, the main function prints a demo of program. Please view this page in "raw mode." The program output should be:
 
 C867 Scripting and Programming - Applications
 Language Used: C++
